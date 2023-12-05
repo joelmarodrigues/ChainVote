@@ -1,0 +1,2 @@
+# ChainVote
+Academic project
